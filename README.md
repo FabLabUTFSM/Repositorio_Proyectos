@@ -1,25 +1,31 @@
-# Nombre Proyecto
+<!-- ¡Hola, Maker! Bienvenid@ a la plantilla de proyectos de FabLab UTFSM.
+Esta plantilla te ayudará a registrar tu proyecto en nuestro GitHub, a fin de poder
+revisar tus avances en el laboratorio. -->
 
-<!--- para subir imagenes, subimos el archivo a la carpeta Images de este repositorio, y cambiamos el nombre projecto.png por el de nuestra imagen + su extensión -->
+<!--- La idea es que los proyectos generen documentación y tutoriales de aquello que
+hayan aprendido en el proceso de desarrollo de su proyecto, y pueda ser útil para
+futuros proyectos. -->
 
-<img src="Images/projecto.png" width=600 >
+# Nombre del proyecto
+<img src="./ejemplo/proyecto.png" width=600>
+
+<span style="color:red">Puedes reemplazar la imagen anterior por el logo de tu proyecto y borrar este mensaje</span>
 
 
-**DESCRIPCIÓN PROJECTO**
+# Descripción del proyecto
+## Resumen ejecutivo del proyecto
+<span style="color:red">Ingresa aquí el resumen ejecutivo del proyecto y borra este mensaje</span>
 
-## Contactos
+## Tipo de proyecto
+<span style="color:red">Ingresa aquí el tipo de proyecto y borra este mensaje</span>
 
-| Nombre 	| Telefono  	|  Mail 	|   
-|-----	|---	|---	|
-|    Nombre 1 	|   Telefono 1	| Mail 1  	|  
 
-## Enlaces 
-<!--- Esta sección es exclusiva para los proyectos del Fab Lab, ya que todos deben tener los mismos documentos con el fin de ordenar la información -->
+## Equipo
 
-Documento de finanzas [aquí](insertar enalce al Drive)  
-Carpeta multimedia [aquí](insertar enalce al Drive)  
+<span style="color:red">Ingresa la información del equipo en la siguiente tabla, donde el primer contacto es el líder del equipo, y borra este mensaje</span>
 
-## Tutoriales
-<!--- La idea es que los proyectos generen tutoriales de aquello que hayan aprendido en el proceso de desarrollo de su proyecto, y pueda ser util para futuros proyectos en Fab Lab, uso de herramientas, máquinas, software, electronica, etc. -->
-
-Tutorial 1 [aqui](enlace git)
+| Nombre completo	    | Teléfono  	|  Correo electrónico 	|   
+|-----	                |---	        |---	                |
+| Nombre 01 	        | Teléfono 01	| Correo electrónico 01 | 
+| Nombre 02 	        | Teléfono 02	| Correo electrónico 02 | 
+| Nombre 03 	        | Teléfono 03	| Correo electrónico 03 | 
